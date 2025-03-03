@@ -21,7 +21,6 @@ This project analyzes **Kimia Farma's** business performance from **2020 to 2023
 ```
 /Big-Data-Analytics-Kimia-Farma-VIX
 │── README.md  
-│── data/  (processed data)  
 │── sql/  (SQL queries for analysis)  
 │── tableau/  (Dashboard files & reports)  
 └── Final Task_Kimia Farma_Big Data Analytics__Bramantyo Raka_.pdf  (Project presentation & insights)  
